@@ -30,18 +30,22 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Topsy-Turvy</dc:title>
 		<meta property="file-as" refines="#title">Topsy-Turvy</meta>
+		<meta property="se:alternate-title">The Purchase of the North Pole</meta>
 		<dc:subject id="subject-1">Science fiction, French -- Translations into English</dc:subject>
-		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="authority" refines="#subject-1">sh89006393</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:subject id="subject-2">Engineering mathematics</dc:subject>
+		<meta property="authority" refines="#subject-2">sh85043235</meta>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description"> The North Pole is auctioned off, and the winning team undertakes a scientific experiment to ameliorate the local climate.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Two decades after Jules Verne's &lt;iFrom the Earth to the Moon&lt;/i&gt; and  &lt;iAround the Moon;/i&gt; the Baltimore Gun Club returns with its sights on the North Pole's rich coal deposits. Access to the area would be facilitated under a more temperate climate, which, the team believes, can be achieved by altering slightly the Earth's axis of rotation.  This climate change would affect every region of the globe to various degrees, thus creating anxiety and opposition worldwide.
+			&lt;/p&gt; &lt;i lang="fr"&gt;Sans Dessus Dessous;/i&gt;, number 34 in the &lt;i lang="fr"&gt;Voyages Extraordinaires&lt;/i&gt; collection, appeared in French in 1889 and was published in English the following year by J. G. Ogilvie as &lt;i&gt;Topsy-Turvy.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/10547</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID3f693d0c586d6</dc:source>
+		<meta property="se:production-notes">The equation in Chapter 11 is the one found in the original French and English editions. Project Gutenberg had substituted an enhanced version of this equation, which Jules Verne discusses in "Around the Moon," the sequel to "From the Earth to the Moon."  The additional terms take into account the effects of lunar attraction, an explanation droped in the J. G. Ogilvie translation. </meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Topsy-Turvy</meta>
@@ -54,32 +58,32 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">J. G. Ogilvie</dc:contributor>
 		<meta property="file-as" refines="#translator">Ogilvie, J. G.</meta>
-		<meta property="se:name.person.full-name" refines="#translator">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">CONTRIBUTOR_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:name.person.full-name" refines="#translator">J. G. Ogilvie</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator">Unknown</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">John Henry Twachtman</dc:contributor>
+		<meta property="file-as" refines="#artist">Twachtman, John Henry</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/John_Henry_Twachtman</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79061318</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">The Online Distributed Proofreading Team</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Online Distributed Proofreading Team, The</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">https://pgdp.net</meta>
+		<dc:contributor id="transcriber-1">Norman Wolcott</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Wolcott, Norman</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">Norman Wolcott Linked Table of Contents produced by David Widger</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
 		<meta property="se:url.authority.nacoaf" refines="#transcriber-2">http://id.loc.gov/authorities/names/no2011017869</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Geneviève Ségol</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Ségol, Geneviève</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">REVIEWER TBD</dc:contributor>
+		<meta property="file-as" refines="#producer-2">TBD</meta>
+		<meta property="se:role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
