@@ -31,34 +31,34 @@
 		<dc:title id="title">Topsy-Turvy</dc:title>
 		<meta property="file-as" refines="#title">Topsy-Turvy</meta>
 		<meta property="se:alternate-title">The Purchase of the North Pole</meta>
-		<dc:subject id="subject-1">Science fiction, French -- Translations into English</dc:subject>
-		<meta property="authority" refines="#subject-1">sh89006393</meta>
-		<meta property="term" refines="#subject-1">Unknown</meta>
+		<dc:subject id="subject-1">Science fiction, French - Translations into English</dc:subject>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh89006393</meta>
 		<dc:subject id="subject-2">Engineering mathematics</dc:subject>
-		<meta property="authority" refines="#subject-2">sh85043235</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh85043235</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description"> The North Pole is auctioned off, and the winning team undertakes a scientific experiment to ameliorate the local climate.</dc:description>
+		<dc:description id="description">The North Pole is auctioned off, and the winning team undertakes a scientific experiment to ameliorate the local climate.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Two decades after Jules Verne's &lt;iFrom the Earth to the Moon&lt;/i&gt; and  &lt;iAround the Moon;/i&gt; the Baltimore Gun Club returns with its sights on the North Pole's rich coal deposits. Access to the area would be facilitated under a more temperate climate, which, the team believes, can be achieved by altering slightly the Earth's axis of rotation.  This climate change would affect every region of the globe to various degrees, thus creating anxiety and opposition worldwide.
-			&lt;/p&gt; &lt;i lang="fr"&gt;Sans Dessus Dessous;/i&gt;, number 34 in the &lt;i lang="fr"&gt;Voyages Extraordinaires&lt;/i&gt; collection, appeared in French in 1889 and was published in English the following year by J. G. Ogilvie as &lt;i&gt;Topsy-Turvy.&lt;/p&gt;
+			&lt;p&gt;Two decades after &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Jules Verne&lt;/a&gt;’s &lt;i&gt;From the Earth to the Moon&lt;/i&gt; and &lt;i&gt;Around the Moon&lt;/i&gt;, the Baltimore Gun Club returns with its sights on the North Pole’s rich coal deposits. Access to the area would be facilitated under a more temperate climate, which, the team believes, can be achieved by altering slightly the Earth’s axis of rotation. This climate change would affect every region of the globe to various degrees, thus creating anxiety and opposition worldwide.&lt;/p&gt;
+			&lt;p&gt;&lt;i lang="fr"&gt;Sans Dessus Dessous&lt;/i&gt;, number 34 in the &lt;i lang="fr"&gt;Voyages Extraordinaires&lt;/i&gt; collection, appeared in French in 1889 and was published in English the following year by J. G. Ogilvie as &lt;i&gt;Topsy-Turvy&lt;/i&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/10547</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID3f693d0c586d6</dc:source>
-		<meta property="se:production-notes">The equation in Chapter 11 is the one found in the original French and English editions. Project Gutenberg had substituted an enhanced version of this equation, which Jules Verne discusses in "Around the Moon," the sequel to "From the Earth to the Moon."  The additional terms take into account the effects of lunar attraction, an explanation droped in the J. G. Ogilvie translation. </meta>
+		<meta property="se:production-notes">The equation in Chapter 11 is the one found in the original French and English editions. Project Gutenberg substituted an enhanced version of this equation, which Jules Verne discusses in “Around the Moon,” the sequel to “From the Earth to the Moon.” The additional terms take into account the effects of lunar attraction, an explanation dropped in the J. G. Ogilvie translation.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Topsy-Turvy</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jules-verne_topsy-turvy_j-g-ogilvie</meta>
 		<dc:creator id="author">Jules Verne</dc:creator>
 		<meta property="file-as" refines="#author">Verne, Jules</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Jules Gabriel Verne</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Jules_Verne</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79064013</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">J. G. Ogilvie</dc:contributor>
 		<meta property="file-as" refines="#translator">Ogilvie, J. G.</meta>
-		<meta property="se:name.person.full-name" refines="#translator">J. G. Ogilvie</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">Unknown</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">John Henry Twachtman</dc:contributor>
@@ -102,7 +102,7 @@
 		<item href="text/chapter-8.xhtml" id="chapter-8.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-9.xhtml" id="chapter-9.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-10.xhtml" id="chapter-10.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-11.xhtml" id="chapter-11.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-11.xhtml" id="chapter-11.xhtml" media-type="application/xhtml+xml" properties="mathml"/>
 		<item href="text/chapter-12.xhtml" id="chapter-12.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-13.xhtml" id="chapter-13.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-14.xhtml" id="chapter-14.xhtml" media-type="application/xhtml+xml"/>
