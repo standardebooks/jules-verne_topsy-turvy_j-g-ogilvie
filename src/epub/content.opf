@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/jules-verne/topsy-turvy/j-g-ogilvie</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-07-27T20:04:31Z</dc:date>
+		<meta property="dcterms:modified">2021-07-27T20:04:31Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -38,21 +38,21 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85043235</meta>
 		<meta property="se:subject">Fiction</meta>
-		<meta id="collection" property="belongs-to-collection">Voyages Extraordinaires</meta>
-		<meta property="collection-type" refines="#collection">series</meta>
-		<meta property="group-position" refines="#collection">34</meta>
+		<meta id="collection-1" property="belongs-to-collection">Voyages Extraordinaires</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">34</meta>
 		<dc:description id="description">The North Pole is auctioned off, and the winning team undertakes a scientific experiment to ameliorate the local climate.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Two decades after &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Jules Verne&lt;/a&gt;’s &lt;i&gt;From the Earth to the Moon&lt;/i&gt; and &lt;i&gt;Around the Moon&lt;/i&gt;, the Baltimore Gun Club returns with its sights on the North Pole’s rich coal deposits. Access to the area would be facilitated under a more temperate climate, which, the team believes, can be achieved by altering slightly the Earth’s axis of rotation. This climate change would affect every region of the globe to various degrees, thus creating anxiety and opposition worldwide.&lt;/p&gt;
+			&lt;p&gt;Two decades after &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Jules Verne&lt;/a&gt;’s &lt;i&gt;From the Earth to the Moon&lt;/i&gt; and &lt;i&gt;Around the Moon&lt;/i&gt;, the Baltimore Gun Club returns with its sights on the North Pole’s rich coal deposits. Access to the area would be facilitated under a more temperate climate, which, the team believes, can be achieved by slightly altering the Earth’s axis of rotation. This climate change would affect every region of the globe to various degrees, thus creating anxiety and opposition worldwide.&lt;/p&gt;
 			&lt;p&gt;&lt;i lang="fr"&gt;Sans Dessus Dessous&lt;/i&gt;, number 34 in the &lt;i lang="fr"&gt;Voyages Extraordinaires&lt;/i&gt; collection, appeared in French in 1889 and was published in English the following year by J. G. Ogilvie as &lt;i&gt;Topsy-Turvy&lt;/i&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/10547</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID3f693d0c586d6</dc:source>
 		<meta property="se:production-notes">The equation in Chapter 11 is the one found in the original French and English editions. Project Gutenberg substituted an enhanced version of this equation, which Jules Verne discusses in “Around the Moon,” the sequel to “From the Earth to the Moon.” The additional terms take into account the effects of lunar attraction, an explanation dropped in the J. G. Ogilvie translation.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Topsy-Turvy</meta>
+		<meta property="se:word-count">42154</meta>
+		<meta property="se:reading-ease.flesch">61.16</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Purchase_of_the_North_Pole</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jules-verne_topsy-turvy_j-g-ogilvie</meta>
 		<dc:creator id="author">Jules Verne</dc:creator>
 		<meta property="file-as" refines="#author">Verne, Jules</meta>
