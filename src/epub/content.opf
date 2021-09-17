@@ -44,7 +44,7 @@
 		<dc:description id="description">The North Pole is auctioned off, and the winning team undertakes a scientific experiment to ameliorate the local climate.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Two decades after &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Jules Verne&lt;/a&gt;’s &lt;i&gt;From the Earth to the Moon&lt;/i&gt; and &lt;i&gt;Around the Moon&lt;/i&gt;, the Baltimore Gun Club returns with its sights on the North Pole’s rich coal deposits. Access to the area would be facilitated under a more temperate climate, which, the team believes, can be achieved by slightly altering the Earth’s axis of rotation. This climate change would affect every region of the globe to various degrees, thus creating anxiety and opposition worldwide.&lt;/p&gt;
-			&lt;p&gt;&lt;i lang="fr"&gt;Sans Dessus Dessous&lt;/i&gt;, number 34 in the &lt;i lang="fr"&gt;Voyages Extraordinaires&lt;/i&gt; collection, appeared in French in 1889 and was published in English the following year by J. G. Ogilvie as &lt;i&gt;Topsy-Turvy&lt;/i&gt;.&lt;/p&gt;
+			&lt;p&gt;&lt;i lang="fr"&gt;Sans Dessus Dessous&lt;/i&gt;, number 34 in the &lt;a href="https://standardebooks.org/collections/voyages-extraordinaires"&gt;&lt;i lang="fr"&gt;Voyages Extraordinaires&lt;/i&gt;&lt;/a&gt; collection, appeared in French in 1889 and was published in English the following year by J. G. Ogilvie as &lt;i&gt;Topsy-Turvy&lt;/i&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/10547</dc:source>
