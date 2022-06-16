@@ -28,7 +28,7 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Topsy-Turvy</dc:title>
 		<meta property="file-as" refines="#title">Topsy-Turvy</meta>
-		<meta property="se:alternate-title">The Purchase of the North Pole</meta>
+		<meta property="dcterms:alternate">The Purchase of the North Pole</meta>
 		<dc:subject id="subject-1">Science fiction, French - Translations into English</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh89006393</meta>
