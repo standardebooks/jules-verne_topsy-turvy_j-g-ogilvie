@@ -48,7 +48,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/10547</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID3f693d0c586d6</dc:source>
 		<meta property="se:production-notes">In the original French edition, the equation in Chapter 11 had been shortened, with a note that it was simplified from the original “Around the Moon” equation. That explanatory note was dropped in the English translation; as a result, Project Gutenberg and Standard Ebooks use the original unsimplified equation from “Around the Moon.”</meta>
-		<meta property="se:word-count">42154</meta>
+		<meta property="se:word-count">42176</meta>
 		<meta property="se:reading-ease.flesch">61.16</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Purchase_of_the_North_Pole</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jules-verne_topsy-turvy_j-g-ogilvie</meta>
