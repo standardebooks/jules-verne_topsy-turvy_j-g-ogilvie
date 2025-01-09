@@ -19,3 +19,7 @@ footer{
 body [xml|lang]{
 	font-style: italic;
 }
+
+.telegram{
+	font-variant: all-small-caps;
+}
