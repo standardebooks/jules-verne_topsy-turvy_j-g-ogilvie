@@ -1,0 +1,1 @@
+In the original French edition, the equation in Chapter 11 had been shortened, with a note that it was simplified from the original “Around the Moon” equation. That explanatory note was dropped in the English translation; as a result, Project Gutenberg and Standard Ebooks use the original unsimplified equation from “Around the Moon.”
